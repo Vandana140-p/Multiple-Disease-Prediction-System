@@ -28,3 +28,5 @@ An application capable of diagnosing the probability of three diseases: **Heart 
 
 This improved version enhances readability, adds bullet points for clarity, and makes it visually appealing. Let me know if you need further modifications! 🚀
 5. After entering the parameters, click the ‘Test Result’ button to obtain the disease risk prediction.
+
+[C:\Users\hp\OneDrive\Pictures\Screenshots 1\Screenshot (186).png](url)
